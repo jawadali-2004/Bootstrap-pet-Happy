@@ -1,0 +1,26 @@
+*{
+     list-style-type:none ;
+}
+
+#warn{
+     background-color: rgb(201, 171, 2);
+}
+#momo{
+     height: 40vh;
+     background-image: linear-gradient(rgba(252, 195, 2, 0.8), rgba(252, 195, 2, 0.8)), url(team-image.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     background-position:center;
+     width: 100%;
+}
+#text{
+   
+     text-align: right;
+ }
+ #icon{
+     text-align: right;
+ }
+ #bar{
+     display: flex;
+ }
